@@ -5,7 +5,7 @@ version := "0.1"
 organization := "cep.example"
 scalaVersion in ThisBuild := "2.11.7"
 
-val flinkVersion = "1.4.0"
+val flinkVersion = "1.4-SNAPSHOT"
 
 val flinkDependencies = Seq(
   "org.apache.flink" %% "flink-scala" % flinkVersion,
