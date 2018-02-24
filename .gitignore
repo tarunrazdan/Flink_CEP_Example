@@ -1,0 +1,13 @@
+target
+checkpoints
+*.class
+*.iml
+*.ipr
+*.iws
+.idea
+out
+.DS_Store
+*.log
+
+twfp.properties
+build.properties
